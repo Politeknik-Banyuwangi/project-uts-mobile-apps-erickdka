@@ -18,14 +18,423 @@ class Calls extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
-
             // Masukkan Coding disini jangan rubah lainnya
-            //
-            //
-            //
-            //
-            //
-            //
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_west,
+                    color: Colors.red,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    '30 menit yang lalu',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.call,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_east,
+                    color: Colors.green,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    'Hari ini 11.39',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.videocam,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_west,
+                    color: Colors.red,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    '30 menit yang lalu',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.call,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_east,
+                    color: Colors.green,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    'Hari ini 11.39',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.videocam,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_west,
+                    color: Colors.red,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    '30 menit yang lalu',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.call,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_east,
+                    color: Colors.green,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    'Hari ini 11.39',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.videocam,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_west,
+                    color: Colors.red,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    '30 menit yang lalu',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.call,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_east,
+                    color: Colors.green,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    'Hari ini 11.39',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.videocam,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_west,
+                    color: Colors.red,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    '30 menit yang lalu',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.call,
+                color: Colors.green,
+              ),
+            ),
+            SizedBox(
+              height: 10,
+            ),
+            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Padding(
+                padding: EdgeInsets.only(bottom: 4.0),
+                child: Text(
+                  'Andira',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18.0,
+                  ),
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_east,
+                    color: Colors.green,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    'Hari ini 11.39',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.videocam,
+                color: Colors.green,
+              ),
+            ),
           ],
         ),
       ),
