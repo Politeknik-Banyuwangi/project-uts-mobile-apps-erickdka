@@ -5,7 +5,7 @@ class ChatModel {
   final String message;
   final String time;
   final String avatarUrl;
-  ChatModel({this.name, this.message, this.time, this.avatarUrl});
+  ChatModel({required this.name, required this.message, required this.time, required this.avatarUrl});
 }
 
 List<ChatModel> dummy = [
