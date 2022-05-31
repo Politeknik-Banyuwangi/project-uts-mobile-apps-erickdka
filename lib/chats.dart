@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ui_whatsapp/Widget/CardChats.dart';
+import 'Widget/CardChats.dart';
 
 class Chats extends StatelessWidget {
   const Chats({Key? key}) : super(key: key);
